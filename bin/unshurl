@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""unshurl
+
+ - Author:      Daniel J. Umpierrez
+ - Created:     26-05-2019
+ - License:     UNLICENSE
+ - Github:      https://github.com/havocesp/unshurl
+"""
+import core
+
+if __name__ == '__main__':
+    core.run()
