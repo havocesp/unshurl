@@ -9,6 +9,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/inspectionProfiles
+.idea/inspectionProfiles/Project_Default.xml
 
 # Generated files
 .idea/**/contentModel.xml
