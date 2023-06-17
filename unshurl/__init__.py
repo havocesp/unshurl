@@ -7,7 +7,7 @@
  - License:     UNLICENSE
  - Github:      https://github.com/havocesp/unshurl
 """
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __site__ = 'https://github.com/havocesp/unshurl'
 __license__ = 'UNLICENSE'
 __author__ = 'Daniel J. Umpierrez'

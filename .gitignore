@@ -10,6 +10,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/inspectionProfiles
+.idea/inspectionProfiles/*
 .idea/inspectionProfiles/Project_Default.xml
 
 # Generated files
@@ -199,8 +200,13 @@ dmypy.json
 .gitignore
 .idea/codeStyles/
 .idea/dictionaries/
+.idea/vcs.xml
+.idea/Project_Default.xml
 .idea/misc.xml
 .idea/modules.xml
 .idea/shellcheckPlugin.xml
 .idea/unshurl.iml
 .idea/workspace.xml
+/.idea/CustomInspectionsConfig.xml
+/.idea/markdown.xml
+/.idea/
